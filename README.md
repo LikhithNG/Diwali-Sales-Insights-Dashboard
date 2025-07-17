@@ -23,3 +23,9 @@ A data-driven exploration of consumer behavior and product performance during th
 ---
 
 ## 📁 Folder Structure
+Diwali-Sales-Insights-Dashboard/
+├── Diwali Sales Data.csv            # Dataset used
+├── diwali_analysis.ipynb            # Main notebook
+├── plots/                           # Optional: saved graphs
+├── README.md                        # You’re reading this
+└── requirements.txt                 # Optional: library list
