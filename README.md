@@ -10,7 +10,7 @@ A data-driven exploration of consumer behavior and product performance during th
 - 🔹 Consumer segmentation by gender, age group, marital status, and occupation
 - 🔹 Spending behavior by region and profession
 - 🔹 Ranked product sales by total revenue and order count
-- 🔹 Cleaned and visualized dataset with meaningful bar charts and percentages
+- 🔹 Cleaned and visualized dataset with meaningful bar charts and percentages.
 
 ---
 
